@@ -1,0 +1,20 @@
+{
+  "name": "pet-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Mendola/pet-finder-app.git"
+  },
+  "keywords": [],
+  "author": "Anthony Mendola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anthony-Mendola/pet-finder-app/issues"
+  },
+  "homepage": "https://github.com/Anthony-Mendola/pet-finder-app#readme"
+}
